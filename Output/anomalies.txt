@@ -1,0 +1,6 @@
+No high bandwidth usage anomalies detected.
+
+No unusual protocol usage anomalies detected.
+
+Abnormal Number of Communications Detected:
+ - 192.168.69.197 -> 192.168.69.206 has 177 packets.
